@@ -11,3 +11,13 @@
 
 2.sv.py是使用逻辑回归实现个人收入预测（二分类问题）的代码实现。
 
+3.参考资料：
+
+（1）SGDClassifier部分参数解释：https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+
+（2）解读随机梯度下降的含义：https://www.cnblogs.com/lliuye/p/9451903.html
+
+（3）机器学习之逻辑回归（纯python实现）：https://www.jianshu.com/p/4cfb4f734358
+
+（4）机器学习--Logistic回归计算过程的推导：https://blog.csdn.net/ligang_csdn/article/details/53838743
+
